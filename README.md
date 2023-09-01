@@ -15,11 +15,12 @@ python3 main.py
 ```
 # APP Project
 
-para correr la grafica deberas instalar la libreria matplolib y seguir las sigientes instrucciones 
+para correr el programa utilizar esta serie de pasos
 
 ```sh
 git clone
 cd app
+python3 - m venv entorno
 source entorno/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
